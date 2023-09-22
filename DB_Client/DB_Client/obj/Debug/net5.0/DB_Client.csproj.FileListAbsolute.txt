@@ -50,3 +50,11 @@ C:\Users\Benoit\Documents\repos\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.d
 C:\Users\Benoit\Documents\repos\DB_Client\DB_Client\obj\Debug\net5.0\ref\DB_Client.dll
 C:\Users\Benoit\Documents\repos\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.pdb
 C:\Users\Benoit\Documents\repos\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.genruntimeconfig.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.csproj.AssemblyReference.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.AssemblyInfoInputs.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.AssemblyInfo.cs
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.csproj.CoreCompileInputs.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.dll
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\ref\DB_Client.dll
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.pdb

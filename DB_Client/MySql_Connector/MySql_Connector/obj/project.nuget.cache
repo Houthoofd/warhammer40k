@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zMCUSplUyXWag3u5O12Zt8FGx7sR0rdxIbPlOK4e9lDGKQXxhwjGlY3GJ5Dckmcs5C3A0BvO7/b8IY7F7Awrig==",
+  "dgSpecHash": "UWDk/9ss3v1qQPW5tlhywuNOmkmxoqe2cj6XQxJeW81o/dazD71eNf/cEbFuNTUXlvQV/DmvAglEZBB0dBF6lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
+  "projectFilePath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Benoit\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Benoit\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

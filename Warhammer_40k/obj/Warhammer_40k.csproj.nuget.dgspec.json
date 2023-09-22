@@ -1,75 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benoit\\Documents\\repos\\Warhammer_40k\\Warhammer_40k\\Warhammer_40k.csproj": {}
+    "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\Warhammer_40k\\Warhammer_40k.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\DB_Client.csproj": {
+    "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\DB_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\DB_Client.csproj",
+        "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\DB_Client.csproj",
         "projectName": "DB_Client",
-        "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\DB_Client.csproj",
+        "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\DB_Client.csproj",
         "packagesPath": "C:\\Users\\Benoit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Benoit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj": {
-                "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
-        "projectName": "MySql_Connector",
-        "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
-        "packagesPath": "C:\\Users\\Benoit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\obj\\",
+        "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benoit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,12 +39,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.1.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -122,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Benoit\\Documents\\repos\\Warhammer_40k\\Warhammer_40k\\Warhammer_40k.csproj": {
+    "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\Warhammer_40k\\Warhammer_40k.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\Warhammer_40k\\Warhammer_40k\\Warhammer_40k.csproj",
+        "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\Warhammer_40k\\Warhammer_40k.csproj",
         "projectName": "Warhammer_40k",
-        "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\Warhammer_40k\\Warhammer_40k\\Warhammer_40k.csproj",
+        "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\Warhammer_40k\\Warhammer_40k.csproj",
         "packagesPath": "C:\\Users\\Benoit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\Warhammer_40k\\Warhammer_40k\\obj\\",
+        "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\Warhammer_40k\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Benoit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\DB_Client.csproj": {
-                "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\DB_Client\\DB_Client\\DB_Client.csproj"
+              "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\DB_Client.csproj": {
+                "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\DB_Client\\DB_Client.csproj"
               }
             }
           }
@@ -179,7 +115,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

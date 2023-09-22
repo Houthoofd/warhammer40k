@@ -1826,11 +1826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
+      "projectUniqueName": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
       "projectName": "MySql_Connector",
-      "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
+      "projectPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\MySql_Connector\\MySql_Connector\\MySql_Connector.csproj",
       "packagesPath": "C:\\Users\\Benoit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\MySql_Connector\\MySql_Connector\\obj\\",
+      "outputPath": "C:\\Users\\Benoit\\Documents\\repos\\warhammer40k\\DB_Client\\MySql_Connector\\MySql_Connector\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Benoit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1879,7 +1879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
