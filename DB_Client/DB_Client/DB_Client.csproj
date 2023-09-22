@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-
+    <ProjectReference Include="..\MySql_Connector\MySql_Connector\MySql_Connector.csproj" />
   </ItemGroup>
 
 </Project>
