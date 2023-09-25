@@ -7,7 +7,6 @@ C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-wind
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\Warhammer_40k.runtimeconfig.json
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\Warhammer_40k.runtimeconfig.dev.json
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\Warhammer_40k.dll
-C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\ref\Warhammer_40k.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\Warhammer_40k.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\Google.Protobuf.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
@@ -22,7 +21,6 @@ C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-wind
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\DB_Client.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\MySql_Connector.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.csproj.AssemblyReference.cache
-C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.Form1.resources
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.csproj.GenerateResource.cache
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.AssemblyInfoInputs.cache
@@ -47,3 +45,7 @@ C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-wind
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.Connexion.resources
+C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\refint\Warhammer_40k.dll
+C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.Inscription.resources
+C:\Users\Benoit\Documents\repos\warhammer40k\Warhammer_40k\obj\Debug\net5.0-windows\Warhammer_40k.ChangementMotDePasse.resources

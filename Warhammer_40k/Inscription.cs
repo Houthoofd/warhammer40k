@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Warhammer_40k
 {
-    public partial class Form1 : Form
+    public partial class Inscription : Form
     {
-        public Form1()
+        public Inscription()
         {
             InitializeComponent();
         }

@@ -49,7 +49,6 @@ C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Con
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\MySql_Connector.runtimeconfig.json
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\MySql_Connector.runtimeconfig.dev.json
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\MySql_Connector.dll
-C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\ref\MySql_Connector.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\MySql_Connector.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\bin\Debug\net5.0\K4os.Compression.LZ4.dll
@@ -90,3 +89,4 @@ C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Con
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\obj\Debug\net5.0\ref\MySql_Connector.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\obj\Debug\net5.0\MySql_Connector.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\obj\Debug\net5.0\MySql_Connector.genruntimeconfig.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\MySql_Connector\MySql_Connector\obj\Debug\net5.0\refint\MySql_Connector.dll

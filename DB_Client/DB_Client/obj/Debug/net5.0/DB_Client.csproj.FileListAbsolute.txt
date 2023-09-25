@@ -67,7 +67,6 @@ C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\DB_Client.runtimeconfig.json
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\DB_Client.runtimeconfig.dev.json
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\DB_Client.dll
-C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\ref\DB_Client.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\DB_Client.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\K4os.Compression.LZ4.dll
@@ -102,3 +101,4 @@ C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\bin\Debug\net5.0\MySql_Connector.pdb
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.csproj.CopyComplete
 C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\DB_Client.genruntimeconfig.cache
+C:\Users\Benoit\Documents\repos\warhammer40k\DB_Client\DB_Client\obj\Debug\net5.0\refint\DB_Client.dll
